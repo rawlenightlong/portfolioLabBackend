@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project1",
+      "live": "https://rawlenightlong.github.io/projectOne/",
+      "git": "https://github.com/rawlenightlong/projectOne",
+      "image": "https://i.imgur.com/8IzTLSE.png"
+    },
+    {
+      "name": "project2",
+      "live": "https://moviequoteapp.onrender.com/quotes",
+      "git": "https://github.com/rawlenightlong/movieQuotes",
+      "image": "https://i.imgur.com/FGp1rWN.png"
+    }
+  ]
